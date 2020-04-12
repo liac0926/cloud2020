@@ -1,6 +1,7 @@
 package com.cn.springcloud.service;
 
-import com.cn.springcloud.entites.Payment;
+
+import com.cn.cloud.entites.Payment;
 
 /**
  * @author lac

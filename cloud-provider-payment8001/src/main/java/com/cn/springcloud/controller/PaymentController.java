@@ -5,8 +5,9 @@ package com.cn.springcloud.controller;
  * @date 2020/4/5-9:32
  */
 
-import com.cn.springcloud.entites.CommonResult;
-import com.cn.springcloud.entites.Payment;
+
+import com.cn.cloud.entites.CommonResult;
+import com.cn.cloud.entites.Payment;
 import com.cn.springcloud.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
